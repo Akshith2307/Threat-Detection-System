@@ -45,7 +45,7 @@ Visualizations are an integral part of the project and are used to communicate t
 ![ROC Curve for Multi-Class](path_to_image/roc_multi_class.png)
 ![Multi-class ROC Curve for Valid Classes](path_to_image/roc_valid_classes.png)
 ![Feature Importance Visualization](path_to_image/feature_importance.png)
-![SHAP Value Visualization](path_to_image/shap_value.png)
+![SHAP Value Visualization](Images/SHAP Value Visualization)
 ![Precision-Recall Curve](path_to_image/precision_recall_curve.png)
 ![PR Curve Per Class](path_to_image/pr_curve_per_class.png)
 
