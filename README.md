@@ -43,7 +43,7 @@ The study highlights both the potential and the challenges of applying machine l
 ## Visualizations
 Visualizations are an integral part of the project and are used to communicate the model's performance and feature importance. Below are the included visualizations:
 ![ROC Curve for Multi-Class](path_to_image/roc_multi_class.png)
-![Multi-class ROC Curve for Valid Classes](path_to_image/roc_valid_classes.png)
+![Multi-class ROC Curve for Valid Classes](Images/Multi-class ROC-Curve for Valid Classes)
 ![Feature Importance Visualization](path_to_image/feature_importance.png)
 ![SHAP Value Visualization](Images/SHAP Value Visualization)
 ![Precision-Recall Curve](path_to_image/precision_recall_curve.png)
